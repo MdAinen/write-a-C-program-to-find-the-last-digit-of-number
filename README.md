@@ -1,0 +1,1 @@
+# write-a-C-program-to-find-the-last-digit-of-number
